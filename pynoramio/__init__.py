@@ -2,7 +2,7 @@
 import requests
 
 __author__ = 'Rob Derksen <rob.derksen@hubsec.eu>'
-__version__ = '0.1'
+__version__ = '0.1.1'
 
 
 class PynoramioException(Exception):

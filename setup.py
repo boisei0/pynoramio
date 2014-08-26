@@ -21,6 +21,6 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     keywords='api maps panoramio',
-    install_requires=['requests'],
+    install_requires=['requests==2.3.0'],
     packages=['pynoramio']
 )
